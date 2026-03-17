@@ -27,4 +27,4 @@ This dashboard analyzes sales and profitability for a retail superstore.
 
 ## 🚀 Author
 
-Your Name
+Malak Sherif
