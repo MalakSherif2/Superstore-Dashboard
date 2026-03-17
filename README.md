@@ -1,4 +1,4 @@
-# Superstore Dashboard 📊
+# 🛍️ Superstore Sales Dashboard
 
 ## 📌 Project Overview
 
