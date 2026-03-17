@@ -1,4 +1,3 @@
-# Superstore-Dashboard
 # Superstore Dashboard 📊
 
 ## 📌 Overview
