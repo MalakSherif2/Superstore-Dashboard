@@ -38,6 +38,14 @@ It provides insights into sales, profit, customer segments, shipping modes, and 
 * Power BI
 * Data Visualization
 * Data Analysis
+## 📁 Project Structure
+
+superstore-analysis/
+│
+├── dashboard.pbix
+├── dashboard.png
+├── README.md
+└── insights.md
 
 ## 📄 More Details
 Check detailed insights here → [Insights](insights.md)
